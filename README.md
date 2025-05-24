@@ -4,6 +4,10 @@ A smart IoT-enabled system to automate vehicle fuel level monitoring, deliver re
 
 ---
 
+https://github.com/user-attachments/assets/b74773f7-45c3-4ae5-ab0c-6fbb2d880020
+
+
+
 ## 📄 Abstract
 
 The Fleet Fuel Management System automates the monitoring of vehicle fuel levels and simplifies the process of finding nearby petrol stations. A fuel level sensor continuously tracks the petrol level, and when it drops below a threshold, the system alerts the driver via a dashboard interface. Upon driver confirmation, it uses GPS to locate nearby petrol stations and sends the driver's name, contact, and location to the selected station. This ensures timely refueling, prevents breakdowns, and supports a seamless and safe driving experience.
